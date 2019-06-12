@@ -1,1 +1,1 @@
-web: gunicoron Sign.wsgi --log-file -
+web: gunicorn Sign.wsgi --log-file -
