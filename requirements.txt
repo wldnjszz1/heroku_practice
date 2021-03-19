@@ -8,7 +8,7 @@ django-appconf==1.0.3
 django-imagekit==4.0.2
 django-rest-auth==0.9.5
 django-restframework==0.0.1
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 Faker==1.0.4
 gunicorn==19.9.0
 idna==2.8
